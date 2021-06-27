@@ -1,0 +1,40 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Saransh Chauhan"
+theme= "PaperMod"
+enableemoji= true
+
+[params.homeInfoParams]
+Title = "Hi there \U0001F44B" 
+Content = "I'm Saransh. This is my blog.."
+
+[params.fuseOpts]
+isCaseSensitive = false
+shouldSort = true
+location = 0
+distance = 1_000
+threshold = 0.4
+minMatchCharLength = 0
+keys = [ "title", "permalink", "summary", "content" ]
+
+
+[[menu.main]]
+identifier = "about"
+name = "about me"
+url = "about"
+weight = 10
+
+[[menu.main]]
+identifier = "tags"
+name = "tags"
+url = "/tags/"
+weight = 20
+
+[[menu.main]]
+identifier = "search"
+name = "search"
+url = "search"
+weight = 30
+
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]
