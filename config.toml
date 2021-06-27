@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = ""
 languageCode = "en-us"
 title = "Saransh Chauhan"
 theme= "PaperMod"
@@ -20,7 +20,7 @@ keys = [ "title", "permalink", "summary", "content" ]
 [[menu.main]]
 identifier = "about"
 name = "about me"
-url = "about"
+url = "/about"
 weight = 10
 
 [[menu.main]]
@@ -32,7 +32,7 @@ weight = 20
 [[menu.main]]
 identifier = "search"
 name = "search"
-url = "search"
+url = "/search"
 weight = 30
 
 [outputs]
