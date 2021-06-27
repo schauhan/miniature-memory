@@ -7,7 +7,6 @@ enableemoji= true
 [params.homeInfoParams]
 Title = "Hi there \U0001F44B" 
 Content = "I'm Saransh. This is my blog.."
-
 [params.fuseOpts]
 isCaseSensitive = false
 shouldSort = true
