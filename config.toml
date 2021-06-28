@@ -1,8 +1,7 @@
-baseURL = ""
+baseURL = "$DEPLOY_PRIME_URL"
 languageCode = "en-us"
 title = "Saransh Chauhan"
 theme= "PaperMod"
-url= "/"
 enableemoji= true
 
 [params.homeInfoParams]
