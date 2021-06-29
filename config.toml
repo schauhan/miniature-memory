@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://github.com/schauhan/miniature-memory"
 languageCode = "en-us"
 title = "Saransh Chauhan"
 theme= "PaperMod"
