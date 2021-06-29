@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://tender-wiles-5d6778.netlify.app/"
 languageCode = "en-us"
 title = "Saransh Chauhan"
 theme= "PaperMod"
@@ -7,6 +7,7 @@ enableemoji= true
 [params.homeInfoParams]
 Title = "Hi there \U0001F44B" 
 Content = "I'm Saransh. This is my blog.."
+
 [params.fuseOpts]
 isCaseSensitive = false
 shouldSort = true
