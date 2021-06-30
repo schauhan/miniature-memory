@@ -4,6 +4,15 @@ title = "Saransh Chauhan"
 theme= "PaperMod"
 enableemoji= true
 
+
+[[redirects]]
+from = "tender-wiles-5d6778.netlify.app"
+to = "https://www.saranshchauhan.com"
+status = 301
+force = true
+
+
+
 [params]
 ShowShareButtons= false
 
