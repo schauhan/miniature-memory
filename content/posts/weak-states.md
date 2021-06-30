@@ -1,5 +1,5 @@
 ---
-title: Weak States and Privilege Violence
+title: Weak States and Privilege Violence (Part-1)
 summary: How corrupt politicians and elites make nation states weak and normalize violence in the society.
 tags: ["geopolitics", "india"]
 author: "Me"
