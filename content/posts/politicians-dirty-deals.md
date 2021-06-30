@@ -5,6 +5,9 @@ tags: ["geopolitics", "india"]
 author: "Me"
 date: 2021-04-18T22:06:33.434Z
 draft: false
+ShowReadingTime: true
+showToc: true
+TocOpen: false
 ---
 
 This is the second part of a three-part blog-series based on **A Savage Order** by **Dr. Rachel Kleinfeld**. I don't claim an original work here; most of the idea are from the book, with some my observations from the Indian subcontinent added for context.

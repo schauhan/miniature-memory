@@ -5,6 +5,9 @@ tags: ["geopolitics", "india"]
 author: "Me"
 date: 2021-02-23T05:12:52.548Z
 draft: false
+ShowReadingTime: true
+showToc: true
+TocOpen: false
 ---
 
 {{< figure src="https://external-preview.redd.it/2Z_jX41gxIvNEi2dhonRRXgDPAO1JliE-b4uriXMaVo.jpg?auto=webp&s=4afe2098c9ee71da0f05ac074d640aad5b28ddcb" title="Pablo Escobar, once of the most famous drug kingpins of Colombia, was a product of a complicit and corrupt state." >}}

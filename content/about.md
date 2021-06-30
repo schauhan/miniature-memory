@@ -1,9 +1,10 @@
 ---
 title: about me
-tags: ["saransh", "austin"]
+tags: ["austin"]
 author: "Me"
 date: 2021-02-23T05:12:52.548Z
 draft: false
+searchHidden: true
 ---
 
 I'm a product leader based in **Austin, TX**. Besides product I work on growth strategy, marketing, and data analytics, the last one being my favorite.
