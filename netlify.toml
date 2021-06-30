@@ -29,3 +29,8 @@ HUGO_VERSION = "0.84.1"
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
 
+[[redirects]]
+from = "tender-wiles-5d6778.netlify.app"
+to = "https://www.saranshchauhan.com"
+status = 301
+force = true
