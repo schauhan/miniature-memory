@@ -4,9 +4,28 @@ title = "Saransh Chauhan"
 theme= "PaperMod"
 enableemoji= true
 
+[params]
+ShowShareButtons= false
+
 [params.homeInfoParams]
 Title = "Hi there \U0001F44B" 
-Content = "I'm Saransh. This is my blog.."
+Content = '''I'm Saransh. I am a product manager and an entrepreneur in **Austin, TX**. 
+
+I write about product and entrepreneurship; geopolitics; and environment.'''
+
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/saransh/"
+
+[[params.socialIcons]]
+name = "medium"
+url = "https://medium.com/@chauhan.saransh"
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/schauhan"
+
 
 [params.fuseOpts]
 isCaseSensitive = false
