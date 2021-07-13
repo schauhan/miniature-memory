@@ -2,7 +2,7 @@
 title: Politicians And Dirty Deals - A Road To Recivilization of Society (Part-2)
 summary: Discussion on some tools an adept politician could employ to pull a state back from violence.
 tags: ["geopolitics", "india"]
-author: "Me"
+author: "Saransh Chauhan"
 date: 2021-04-18T22:06:33.434Z
 draft: false
 ShowReadingTime: true
