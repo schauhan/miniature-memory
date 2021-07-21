@@ -2,7 +2,10 @@ baseURL = "https://www.saranshchauhan.com"
 languageCode = "en-us"
 title = "Saransh Chauhan"
 theme= "PaperMod"
+enableInlineShortcodes= true
+#enableRobotsTXT= true
 enableemoji= true
+googleAnalytics = "263687981"
 
 
 [params]
