@@ -25,7 +25,7 @@ TocOpen: false
 
 ### Value Proposition
 
-Currently (2020) there are very few products in the Indian retail financial space offering algo-trading. The ones that do, require users to know a programming language (Python in most cases). Algoniti simplifies strategy creation by providing a form-based method to build your strategy - no coding knowledge is needed.
+Currently (as of 2020), there are very few products in the Indian retail financial space offering algo-trading. The ones that do require traders to write their strategy using a programming language, limiting access for people who can't code. Algoniti simplifies strategy creation by providing a form-based method to build your strategy - no coding knowledge is needed.
 
 ## :video_camera: Initial Research
 
@@ -33,7 +33,7 @@ Currently (2020) there are very few products in the Indian retail financial spac
 
 I started working on the idea last year while looking at multiple trading products in the Indian finance space. Before working on the idea I wanted to check the market viability and existing competition. I used the following tools:
 
-### Market Research and Competition Analysis
+### Market Research and Competitive Analysis
 
 I collected info on the total market size, brokers offering algo-trading as a service, and estimated the number of interested users. The algo-trading market is estimated to grow 20% yearly between 2020 and 2025.
 
