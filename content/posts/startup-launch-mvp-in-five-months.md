@@ -77,9 +77,9 @@ I hired an SEO consultant to help with some basic website optimization, mostly f
 
 ### Prioritizing Features
 
-Algoniti sits between the user and their stock broker and send buy/sell orders based on the trading strategy created by the user. So integration with multiple brokers is crucial for our product to scale. For MVP I decided to integrate with a single broker which serves the largest volume of our target users.
+Algoniti provides a service by auto-generating and sending orders to a trader's broker - so  effectively, it sits between the trader and their broker. This means that integrating with multiple brokers was crucial for growth. For MVP I decided to integrate with a single broker which served the largest volume among my target users.
 
-Below is an example user flow for the MVP.
+I've always been a proponent of using flows/diagrams to explain complex concepts. Below is an example user flow for the MVP.
 
 ![Web User Flow](/algoniti-user-flow.jpg)
 
@@ -114,10 +114,12 @@ I collected user feedback which helped uncover a major issue - a lot of my trial
 
 ### Pitching to VCs
 
-I started pitching the product to VC firms after the product launch and received interest from 3 major firms in India. Unfortunately the pandemic situation prevented us to grow at a rate needed to get to the series A round, which I was planning within a year.
+I started pitching the product to VC firms after the product launch and received interest from 3 major firms in India. Unfortunately the pandemic situation prevented us to grow at a rate needed to get to the series-A, which I was planning within a year.
 
 ## :rocket: Looking Ahead
 
 ***
 
-This was a fun experience and I learnt more in a year as an entrepreneur that in 5 years prior working as a product manager. Although I had to step back due to some growth and scaling issues, I'm planning to taking another shot at entrepreneurship sometime in the next few years.
+This was a fun experience and I learnt more in a year as an entrepreneur that in 5 years prior working as a product manager. Unfortunately COVID hit a month after our launch, hampering my marketing plans which involved a great deal of travel. It also affected the user growth, hitting the plans for initial funding. I realized that me not being in India was not helping the company, and stepped back giving the control to my partner.
+
+It was a difficult decision - launching this company involved a lot of proverbial blood and sweat - but in hindsight it was a great learning experience. I decided to take a break from entrepreneurship for a few years, but hope to be back at it sometime in the next few years.
