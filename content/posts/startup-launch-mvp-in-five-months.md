@@ -1,6 +1,6 @@
 ---
 title: Building My First Startup
-summary: A summary of my experience building a fin-tech startup from ground-up
+summary: How I built a FinTech startup from ground-up, and launched an MVP in 5 months
 tags:
 - product
 - entrepreneurship
