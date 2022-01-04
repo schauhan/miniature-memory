@@ -19,13 +19,13 @@ TocOpen: false
 
 ***
 
-[Algoniti](https://www.algoniti.com) is a fintech company I built in 2019-2020 for the Indian stock markets. Our flagship product by the same name is an algo-trading platform for stock traders.
+[Algoniti](https://www.algoniti.com) is a fintech company I built 2019 for algo-trading in the Indian stock market - a SaaS platform for no-code, indicator-based strategy creation. 
 
-> The platform lets users build and execute trading strategies live in the markets. Once you create your strategy Algoniti places buy/sell orders to your broker via an API call, so you don't have to monitor your portfolio constantly.
+> Algoniti lets you build a trading strategy and execute them through your broker. Your strategy gets executed automatically as the conditions in your program are hit, freeing you from having to monitor the stock prices constantly.
 
-### Why is this important? _a.k.a. value proposition_
+### Value Proposition
 
-As of now there are very few products in our market space offering algo-trading. The ones that do, require users to know a programming language (Python in most cases). Algoniti simplifies strategy creation - users can create their strategy using a form, no coding knowledge is needed.
+Currently (2020) there are very few products in the Indian retail financial space offering algo-trading. The ones that do, require users to know a programming language (Python in most cases). Algoniti simplifies strategy creation by providing a form-based method to build your strategy - no coding knowledge is needed.
 
 ## :video_camera: Initial Research
 
