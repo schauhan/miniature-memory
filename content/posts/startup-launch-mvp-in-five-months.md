@@ -1,5 +1,5 @@
 ---
-title: How I built a startup and launched an MVP in 5 months
+title: Building My First Startup
 summary: A summary of my experience building a fin-tech startup from ground-up
 tags:
 - product
