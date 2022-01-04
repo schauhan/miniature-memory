@@ -19,19 +19,19 @@ TocOpen: false
 
 ***
 
-[Algoniti](https://www.algoniti.com) is a fintech company I built 2019 for algo-trading in the Indian stock market - a SaaS platform for no-code, indicator-based strategy creation. 
+In 2019, a few months before the COVID pandemic hit, I was hankering to put my tech and product skills to test. Having spent a little over a decade in tech, with over 6 in product, I wanted to prove to myself that I could build a company from the ground-up and scale it. A longtime friend and entrepreneur from India came to me with an offer and I jumped with both feet, building Algoniti, a FinTech platform for the Indian markets.
 
-> Algoniti lets you build a trading strategy and execute them through your broker. Your strategy gets executed automatically as the conditions in your program are hit, freeing you from having to monitor the stock prices constantly.
+> [Algoniti](https://www.algoniti.com) is a SaaS platform for no-code, indicator-based strategy creation and execution. It lets you build a trading strategy and execute it through your broker. Your strategy executes automatically as the conditions in your program are met, freeing you from having to monitor the stock prices manually.
 
 ### Value Proposition
 
-Currently (as of 2020), there are very few products in the Indian retail financial space offering algo-trading. The ones that do require traders to write their strategy using a programming language, limiting access for people who can't code. Algoniti simplifies strategy creation by providing a form-based method to build your strategy - no coding knowledge is needed.
+Currently (as of 2020), there are very few products in the Indian retail financial space which let traders build their own trading strategies; most of them require traders to code their strategy using a programming language, limiting access for people who can't code. This is a need I decided to address: simplifying strategy creation so people who don't know coding could build strategies and execute trades.
 
 ## :video_camera: Initial Research
 
 ***
 
-I started working on the idea last year while looking at multiple trading products in the Indian finance space. Before working on the idea I wanted to check the market viability and existing competition. I used the following tools:
+Before building the product I wanted to check the competition, and market viability: appetite among my target users, is the need big enough that they would be willing to pay for a solution, etc. 
 
 ### Market Research and Competitive Analysis
 
@@ -39,29 +39,37 @@ I collected info on the total market size, brokers offering algo-trading as a se
 
 Next I performed competition analysis and found the alternatives lacking in a good tech solution which users could automate effortlessly. This bolstered our hypothesis about lack of a good solution.
 
-### Checking Product viability
+### Checking Product Viability
 
-I wrote a few articles on algo-trading, and created a Facebook advertisement for early-access signup for our platform. We received 500+ user visits on articles and 280 signups on the advertisement. This showed us that there demand for a solution for algo-trading.
+To check the market appetite I and my partner decided to get a few data points. We wrote an article about algo-trading - its benefits, how-tos, constraints. Within a week we received over 500 user visits, and the article started being promoted as a suggested search results on Google Search. This confirmed that there was a high demand, and a corresponding lack of information about this space in our market.
+
+Next we created a Facebook advertisement for early-access signup for our platform. We received over 280 signups on the advertisement, indicating that people were interested and _might_ pay if we built a good product.
 
 ## :hourglass: Product Strategy: Pricing and Marketing Models
 
 ***
 
-Competitive analysis had helped me define the product vision, and I chose a **subscription-based SaaS model** based on the long term plans for product growth. This model is considered relatively low-risk by our target customers as they could cancel anytime. We also started offering a **one month trial** which helped drive customers down our sales funnel.
+Competitive research and viability analysis helped me define a product vision (growth plan, focus area, MVP features) and target user persona. For sales I chose a **monthly subscription-based SaaS model** based on the long term plans for product growth. This model is considered relatively low-risk by our target customers as they could cancel anytime. I also started offering a **one month trial** to help drive customers through my sales funnel.
 
-Being a bootstrapped startup we didn't have a lot of money to throw on paid advertising. I decided to focus on **content marketing and SEO**. I also created an **email marketing campaign (HubSpot)** which serves to move customers down our marketing funnel by using our content.
+Being a bootstrapped startup we didn't have a lot of money to throw on paid advertising. I decided to focus on **content marketing and SEO**. I built an **email marketing campaign** to turn warm by providing good- quality, information-heavy content.
 
 ## :ninja: Building a Team
 
 ***
 
-### Dev Team
+### Dev
 
-I got my cofounder to lend 2 software developers to work on the project, while I manage the product backlog and the daily project management. I also hired a designer on contract to help with the web and mobile designs, and designed the initial product architecture.
+My cofounder redirected 2 software developers from his other projects towards building the platform, while I led the product project management side of things. Soon the team grew to 3, with me hiring a web-designer.
 
-### Marketing Team
+### Marketing
 
-I hired an SEO consultant to help with the website ranking, and a content writer to create blogs and maintain the social presence for the company on Quora and other relevant social platforms.
+Marketing was an area I learnt the most about. Before I started on the entrepreneurship journey I knew precious little about marketing. coming from a primarily software dev background. 
+
+One of the biggest takeaways was about the difference in marketing strategies in the United States and in India. The Indian market relies more heavily on word-of-mouth marketing than ratings/reviews/rankings. We also see a relatively low search engine volume in India, even for high-usage products, primarily because people rely on information they get from friends and acquaintances, compared to a search engine. I think this is a function of a relatively low-penetration of internet in _my target-market_ in India (not talking about Instagram here).
+
+This led me to focus more on content marketing, referrals, and relationship marketing as compared to SEO and buying ad-words.
+
+I hired an SEO consultant to help with some basic website optimization, mostly focused on content. I hired a content writer to create blogs and maintain a social presence for the company on Quora and other relevant social platforms. The idea was to build brand image and trust by projecting Algoniti as an expert in the algo-trading field.
 
 ## :crystal_ball: Building the MVP
 
