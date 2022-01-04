@@ -122,6 +122,6 @@ I started pitching the product to VC firms after the product launch and received
 
 ***
 
-This was a fun experience and I learnt more in a year as an entrepreneur that in 5 years prior working as a product manager. Unfortunately COVID hit a month after our launch, hampering my marketing plans which involved a great deal of travel. It also affected the user growth, hitting the plans for initial funding. I realized that me not being in India was not helping the company, and stepped back giving the control to my partner.
+This was a fun experience and I learnt more in a year as an entrepreneur that in 6 years prior working as a product manager. Unfortunately, COVID hit a month after our launch, hampering my marketing plans which involved a great deal of travel. It also affected the user growth, hitting my initial fundraising efforts. I realized that not being in India was not helping the company, and stepped back giving the control to my partner.
 
-It was a difficult decision - launching this company involved a lot of proverbial blood and sweat - but in hindsight it was a great learning experience. I decided to take a break from entrepreneurship for a few years, but hope to be back at it sometime in the next few years.
+It was a difficult decision - launching this company involved a lot of proverbial blood and sweat - but in hindsight it was a great learning experience. I've decided to take a break from entrepreneurship for a few years, but hope to be back at it sometime in the next few years.
