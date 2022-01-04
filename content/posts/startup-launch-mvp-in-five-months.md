@@ -37,7 +37,7 @@ Before building the product I wanted to check the competition, and market viabil
 
 I collected info on the total market size, brokers offering algo-trading as a service, and estimated the number of interested users. The algo-trading market is estimated to grow 20% yearly between 2020 and 2025.
 
-Next I performed competitive analysis and found the alternatives lacking in a good tech solution which users could automate effortlessly. This bolstered our hypothesis about lack of a good solution.
+Next I did some competitive analysis and found the alternatives lacking in a good tech solution which users could automate effortlessly. This bolstered our hypothesis about lack of a good solution.
 
 ### Checking Product Viability
 
