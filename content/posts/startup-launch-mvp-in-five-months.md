@@ -45,7 +45,7 @@ To check the market appetite I and my partner decided to get a few data points. 
 
 Next we created a Facebook advertisement for early-access signup for our platform. We received over 280 signups on the advertisement, indicating that people were interested and _might_ pay if we built a good product.
 
-## :hourglass: Product Strategy: Pricing and Marketing Models
+## :hourglass: Product Strategy, Pricing, Go To Market
 
 ***
 
