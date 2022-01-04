@@ -33,11 +33,11 @@ Currently (as of 2020), there are very few products in the Indian retail financi
 
 Before building the product I wanted to check the competition, and market viability: appetite among my target users, is the need big enough that they would be willing to pay for a solution, etc. 
 
-### Market Research and Competitive Analysis
+### Market Research
 
 I collected info on the total market size, brokers offering algo-trading as a service, and estimated the number of interested users. The algo-trading market is estimated to grow 20% yearly between 2020 and 2025.
 
-Next I performed competition analysis and found the alternatives lacking in a good tech solution which users could automate effortlessly. This bolstered our hypothesis about lack of a good solution.
+Next I performed competitive analysis and found the alternatives lacking in a good tech solution which users could automate effortlessly. This bolstered our hypothesis about lack of a good solution.
 
 ### Checking Product Viability
 
