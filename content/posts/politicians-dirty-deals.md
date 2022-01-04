@@ -12,7 +12,7 @@ showToc: true
 TocOpen: false
 
 ---
-This is the second part of a three-part blog-series based on [**A Savage Order**](https://carnegieendowment.org/2018/11/06/savage-order-how-world-s-deadliest-countries-can-forge-path-to-security-pub-77045 "A Savage Order") by **Dr. Rachel Kleinfeld**. I don't claim an original work here; most of the idea are from the book, with some my observations from the Indian subcontinent added for context.
+This is the second part of a three-part blog-series based on [**A Savage Order**](https://carnegieendowment.org/2018/11/06/savage-order-how-world-s-deadliest-countries-can-forge-path-to-security-pub-77045 "A Savage Order") by [**Dr. Rachel Kleinfeld**](https://carnegieendowment.org/experts/699). I don't claim an original work here; most of the idea are from the book, with some my observations from the Indian subcontinent added for context.
 
 ## Background
 
