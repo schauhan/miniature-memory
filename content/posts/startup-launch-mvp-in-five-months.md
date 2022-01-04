@@ -67,9 +67,11 @@ Marketing was an area I learnt the most about. Before I started on the entrepren
 
 One of the biggest takeaways was about the difference in marketing strategies in the United States and in India. The Indian market relies more heavily on word-of-mouth marketing than ratings/reviews/rankings. We also see a relatively low search engine volume in India, even for high-usage products, primarily because people rely on information they get from friends and acquaintances, compared to a search engine. I think this is a function of a relatively low-penetration of internet in _my target-market_ in India (not talking about Instagram here).
 
-This led me to focus more on content marketing, referrals, and relationship marketing as compared to SEO and buying ad-words.
+This led me to focus more on content marketing, referrals, and relationship marketing as compared to SEO and buying ad-words. I did consult with an SEO consultant for some basic website optimization, but mostly focused on content. 
 
-I hired an SEO consultant to help with some basic website optimization, mostly focused on content. I hired a content writer to create blogs and maintain a social presence for the company on Quora and other relevant social platforms. The idea was to build brand image and trust by projecting Algoniti as an expert in the algo-trading field.
+I hired a content writer to create blogs and maintain the company's presence on social platforms like Facebook and Quora. 
+
+> The idea was to build brand-image and trust by projecting Algoniti as an expert in the algo-trading field.
 
 ## :crystal_ball: Building the MVP
 
