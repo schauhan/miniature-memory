@@ -59,7 +59,7 @@ Being a bootstrapped startup we didn't have a lot of money to throw on paid adve
 
 ### Dev
 
-My cofounder redirected 2 software developers from his other projects towards building the platform, while I led the product project management side of things. Soon the team grew to 3, with me hiring a web-designer.
+My cofounder redirected 2 software developers from his other projects towards building the platform, with me leading the product development and a few other areas. Soon the dev team grew to 3 when I hired a web-designer.
 
 ### Marketing
 
