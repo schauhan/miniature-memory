@@ -17,7 +17,7 @@ Image Credit: [Dan Olsen](https://www.linkedin.com/in/danolsen98/)
 
 This article is a rant.
 
-> ### A Product Manager is a CEO of their product...
+> ### "A Product Manager is a CEO/mini-CEO of their product..."
 
 Statements like these 👆🏽 get my goat every time. Sometimes less experienced product managers take these statements at their face value, assuming product-building to be an end-all-be-all process, which impedes their growth. Below I’ve given some counter-views to showcase how different these roles are.
 
