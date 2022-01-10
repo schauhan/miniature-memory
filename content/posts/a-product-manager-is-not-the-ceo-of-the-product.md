@@ -39,7 +39,7 @@ If you are a Director/VP of Product this might not be very interesting. (You rol
 
 ## A Product Manager’s Role
 
-> As a product manager you sit between technology, business, sales, and marketing... You’ll collect requirements from customers and business....and build products that delight the customers...
+> "As a product manager you sit between technology, business, sales, and marketing..." "You’ll collect requirements from customers and business...and build products that delight the customers..."
 
 I’m sure you’ve read these definitions multiple times in job postings and emails from recruiters. Let me give you a definition that works for me.
 
