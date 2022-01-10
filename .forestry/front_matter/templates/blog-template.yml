@@ -26,3 +26,5 @@ fields:
 - type: boolean
   name: TocOpen
   label: TocOpen
+pages:
+- content/posts/a-product-manager-is-not-the-ceo-of-the-product.md
