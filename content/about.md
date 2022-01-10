@@ -24,4 +24,5 @@ Last year I launched a no-code indicator-based algo trading platform, [Algoniti]
 ## :mailbox_with_mail: contact
 
 chauhan.saransh@gmail.com
+
 https://www.linkedin.com/in/saransh/
