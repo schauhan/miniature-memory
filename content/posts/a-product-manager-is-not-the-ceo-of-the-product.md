@@ -14,11 +14,11 @@ title = "A Product manager is NOT the CEO of the product"
 
 Image Credit: [Dan Olsen](https://www.linkedin.com/in/danolsen98/)
 
-## A **Product manager is NOT the CEO of the product**
+# A **Product manager is NOT the CEO of the product**
 
 This article is a rant.
 
-> A Product Manager is a CEO of their product...
+> #### A Product Manager is a CEO of their product...
 
 Statements like these 👆🏽 get my goat every time. Sometimes less experienced product managers take these statements at their face value, assuming product-building to be an end-all-be-all process, which impedes their growth. Below I’ve given some counter-views to showcase how different these roles are.
 
@@ -26,7 +26,7 @@ I’ve formed these after working in the tech field for over 15 years, and havin
 
 Besides these roles having different focus areas, running a company is much harder than building a product - the number of moving pieces increases manifold, and the context switching is mind-boggling.
 
-**Outline and Assumptions**
+### Outline and Assumptions
 
 I’ve structured the article into three parts:
 
@@ -40,11 +40,11 @@ If you are a Director/VP of Product this might not be very interesting. (You rol
 
 ## A Product Manager’s Role
 
-> As a product manager you’ll sit between technology, business, sales, and marketing... You’ll collect requirements from customers and business....and build products that delight the customers...
+> #### As a product manager you’ll sit between technology, business, sales, and marketing... You’ll collect requirements from customers and business....and build products that delight the customers...
 
 I’m sure you’ve read these definitions multiple times in job postings and emails from recruiters. Let me give you a definition that works for me.
 
-> You find, and solve, problems for your customers
+> #### You find, and solve, problems for your customers
 
 Two comments on this definition:
 
@@ -59,13 +59,13 @@ Besides, here are some other roles you’ll fill as a product manager. I’ve di
 
 ## A CEO’s Role
 
-> 💰💰 The primary job of a CEO is to sell. 💰💰
+> #### 💰💰 The primary job of a CEO is to sell. 💰💰
 
 Read this statement again. This, along with the product manager definition above, show the difference in expectations for these roles.
 
 Let me share a story a friend told me sometime back: There was a baker who worked in a highly successful bakery. His cakes were pretty popular, and was paid handsomely by the bakery owner. The baker had this idea to open his own bakery - why should I have to share the profits with the bakery owner when I do all the hard work? So he opened his own bakery near his old workplace. Unfortunately his cakes didn’t sell like the hot commodity they were at his old place. What this baker didn’t realize was that:
 
-> 🎂 Baking a cake and selling a cake are two different skills. 🎂
+> #### 🎂 Baking a cake and selling a cake are two different skills. 🎂
 
 And selling is not easy.
 
@@ -73,7 +73,7 @@ Here are a few other components of a CEO’s job. This is by no means a comprehe
 
 ![](/uploads/ceo.jpg)
 
-## Job Function: CEO vs Product Management
+## Job Function: CEO vs Product Manager
 
 Basically, a CEO is more concerned with selling something, while a product manager is focused on solving customer problems.
 
