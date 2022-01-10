@@ -21,7 +21,7 @@ This article is a rant.
 
 Statements like these 👆🏽 get my goat every time. Sometimes less experienced product managers take these statements at their face value, assuming product-building to be an end-all-be-all process, which impedes their growth. Below I’ve given some counter-views to showcase how different these roles are.
 
-I’ve formed these after working in the tech field for over 15 years, and having played both these roles at different points in my career. (The CEO role coming from building and running my own company).
+I’ve formed these opinions after working in the tech field for over 15 years, and having played both these roles at different points in my career. (The CEO role coming from building and running my own company).
 
 Besides these roles having different focus areas, running a company is much harder than building a product - the number of moving pieces increases manifold, and the context switching is mind-boggling.
 
@@ -39,11 +39,11 @@ If you are a Director/VP of Product this might not be very interesting. (You rol
 
 ## A Product Manager’s Role
 
-> As a product manager you’ll sit between technology, business, sales, and marketing... You’ll collect requirements from customers and business....and build products that delight the customers...
+> As a product manager you sit between technology, business, sales, and marketing... You’ll collect requirements from customers and business....and build products that delight the customers...
 
 I’m sure you’ve read these definitions multiple times in job postings and emails from recruiters. Let me give you a definition that works for me.
 
-#### 🍁🍁 You find, and solve, problems for your customers 🍁🍁
+### 🍁🍁 You find, and solve, problems for your customers 🍁🍁
 
 Two comments on this definition:
 
@@ -58,13 +58,13 @@ Besides, here are some other roles you’ll fill as a product manager. I’ve di
 
 ## A CEO’s Role
 
-#### 💰💰 The primary job of a CEO is to sell. 💰💰
+### 💰💰 The primary job of a CEO is to sell. 💰💰
 
 Read this statement again. This, along with the product manager definition above, show the difference in expectations for these roles.
 
 Let me share a story a friend told me sometime back: There was a baker who worked in a highly successful bakery. His cakes were pretty popular, and was paid handsomely by the bakery owner. The baker had this idea to open his own bakery - why should I have to share the profits with the bakery owner when I do all the hard work? So he opened his own bakery near his old workplace. Unfortunately his cakes didn’t sell like the hot commodity they were at his old place. What this baker didn’t realize was that:
 
-> #### 🎂 Baking a cake and selling a cake are two different skills. 🎂
+> ### 🎂 Baking a cake and selling a cake are two different skills. 🎂
 
 And selling is not that easy.
 
