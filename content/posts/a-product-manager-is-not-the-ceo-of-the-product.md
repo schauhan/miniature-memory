@@ -10,6 +10,10 @@ tags = ["product"]
 title = "A Product manager is NOT the CEO of the product"
 
 +++
+![](/uploads/pm-responsibility.jpg)
+
+Image Credit: [Dan Olsen](https://www.linkedin.com/in/danolsen98/)
+
 ## A **Product manager is NOT the CEO of the product**
 
 This article is a rant.
