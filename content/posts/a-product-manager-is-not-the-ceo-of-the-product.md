@@ -67,7 +67,7 @@ And selling is not easy.
 
 Here are a few other components of a CEO’s job. This is by no means a comprehensive list, and is constrained by my current understanding. These functions are overlapping at times.
 
-![CEO.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/05b3790f-d47f-4f03-b95a-1a47fb883e28/CEO.jpg)
+![](/uploads/ceo.jpg)
 
 ## Job Function: CEO vs Product Management
 
