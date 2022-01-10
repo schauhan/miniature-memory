@@ -44,7 +44,7 @@ If you are a Director/VP of Product this might not be very interesting. (You rol
 
 I’m sure you’ve read these definitions multiple times in job postings and emails from recruiters. Let me give you a definition that works for me.
 
-> #### You find, and solve, problems for your customers
+#### 🍁🍁 You find, and solve, problems for your customers 🍁🍁
 
 Two comments on this definition:
 
@@ -59,7 +59,7 @@ Besides, here are some other roles you’ll fill as a product manager. I’ve di
 
 ## A CEO’s Role
 
-> #### 💰💰 The primary job of a CEO is to sell. 💰💰
+#### 💰💰 The primary job of a CEO is to sell. 💰💰
 
 Read this statement again. This, along with the product manager definition above, show the difference in expectations for these roles.
 
@@ -67,7 +67,7 @@ Let me share a story a friend told me sometime back: There was a baker who worke
 
 > #### 🎂 Baking a cake and selling a cake are two different skills. 🎂
 
-And selling is not easy.
+And selling is not that easy.
 
 Here are a few other components of a CEO’s job. This is by no means a comprehensive list, and is constrained by my current understanding. These functions are overlapping at times.
 
