@@ -1,0 +1,28 @@
+---
+label: blog-template
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: summary
+  label: summary
+- type: list
+  name: tags
+  label: tags
+- type: text
+  name: author
+  label: author
+- type: datetime
+  name: date
+  label: date
+- type: boolean
+  name: ShowReadingTime
+  label: ShowReadingTime
+- type: boolean
+  name: showToc
+  label: showToc
+- type: boolean
+  name: TocOpen
+  label: TocOpen
