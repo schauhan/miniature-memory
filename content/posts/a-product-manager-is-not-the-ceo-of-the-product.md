@@ -96,4 +96,4 @@ A product manager has it relatively easier - if tomorrow a product failed, it wo
 
 ***
 
-So, there you have it. A product manager is not a CEO of the product. Next time somebody tells you otherwise, maybe they are just trying to motivate you to take more job-functions.
+So, there you have it. A product manager is not a CEO of the product. Next time somebody tells you otherwise, maybe they are just trying to motivate you to take on a more job-functions.
