@@ -51,38 +51,38 @@ Two comments on this definition:
 
   **Agile ≠ Product Management**
 
-  Agile is concerned with software/product development, just a subset of product management.
-* Customers and users might sometimes be different. Customer is someone who pays, while user is, well, who uses the product. Whose problems are you solving? the users’ or the customers’?
+  Agile is concerned with software or product development, which is just a subset of product management.
+* Customers and users might sometimes be different. A customer is someone who pays for the product; a user is, well, who uses the product. Whose problems are you solving? the users’ or the customers’?
 
-Besides, here are some other roles you’ll fill as a product manager. I’ve divided them by areas:
+Here are some other roles you’ll fill as a product manager. I’ve divided them by areas:
 
 * **Communication**: language translator, asker of questions (from business, tech, sales, and others), opinion former
 * **Data**: researcher (before building), data analyzer (after building)
-* **Planning, Project Management**: Remember that last recruiter who called offering you a contract role? Add all the agile buzzwords you heard them reading from their script: roadmap, prioritization, agile, user story mapping.. you get the idea.
+* **Planning, Project Management**: _Remember that last recruiter who called offering you a contract role? Add all the agile buzzwords you heard them reading from their script:_ building roadmaps, prioritizing features, user story mapping, agile, scrum... you get the idea.
 
   ![](/uploads/product-manager-role.jpeg)
 
 ### 💰💰 The primary job of a CEO is to sell. 💰💰
 
-Read this statement again. This, along with the product manager definition above, show the difference in expectations for these roles.
+Read this statement again. This should clarify the difference in expectations for these roles.
 
-Let me share a story a friend told me sometime back: There was a baker who worked in a highly successful bakery. His cakes were pretty popular, and was paid handsomely by the bakery owner. The baker had this idea to open his own bakery - why should I have to share the profits with the bakery owner when I do all the hard work? So he opened his own bakery near his old workplace. Unfortunately his cakes didn’t sell like the hot commodity they were at his old place. What this baker didn’t realize was that:
+Let me share a story a friend told me sometime back: There was a baker who worked in a highly successful bakery. His cakes were pretty popular, and he was paid handsomely by the owner. The baker had this idea to open his own bakery - why should I have to share the profits with the bakery owner when I do all the hard work? So he opened his own bakery near his old workplace. Unfortunately his cakes didn’t sell like the hot commodity they were at his old place. What this baker didn’t realize was:
 
 > ### 🎂 Baking a cake and selling a cake are two different skills. 🎂
 
 And selling is not that easy.
 
-Here are a few other components of a CEO’s job. This is by no means a comprehensive list, and is constrained by my current understanding. These functions are overlapping at times.
+Here are a few other components of a CEO’s job. This is by no means a comprehensive list, and is constrained by my current understanding of the role. These functions overlap at times.
 
 ![](/uploads/ceo.jpg)
 
 ## Job Function: CEO vs Product Manager
 
-Basically, a CEO is more concerned with selling, while a product manager is focused on solving customer problems.
+🔥In essence, a CEO is more concerned with selling, while a product manager is focused on solving problems.
 
 ### Power
 
-As a CEO you have the ultimate authority over people working for you. Unlike a product manager, you can hire/fire people. A product manager's role, in contrast, is dependent on collaboration, relationship building, and a good deal of soft-power.
+As a CEO you have the ultimate authority over people working for you - you can hire/fire people. A product manager's role, in contrast, is dependent on collaboration, relationship building, and a good deal of soft-power.
 
 You decide the direction the company would take, in terms of products, messaging, market positioning, etc.
 
