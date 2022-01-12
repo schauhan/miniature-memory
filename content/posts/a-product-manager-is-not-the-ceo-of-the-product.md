@@ -3,39 +3,37 @@ ShowReadingTime = true
 TocOpen = false
 author = "Saransh Chauhan"
 date = 2022-01-09T06:00:00Z
-draft = false
 showToc = true
 summary = "How is a product manager role different than that of a CEO"
 tags = ["product"]
 title = "A Product manager is NOT the CEO of the product"
 
 +++
-
 ![](/uploads/pm-responsibility.jpg)
 
 Image Credit: [Dan Olsen](https://www.linkedin.com/in/danolsen98/)
 
 This article is a rant.
 
-> ### "A Product Manager is a CEO/mini-CEO of their product..."
+> "A Product Manager is a CEO of their product..."
 
-Statements like these 👆🏽 get my goat every time. Sometimes less experienced product managers take these statements at their face value, assuming product-building to be an end-all-be-all process, which impedes their growth. Below I’ve given some counter-views to showcase how different these roles are.
+Statements like this 👆🏽 get my goat every time. Sometimes less experienced product managers take these statements at face-value, assuming product-building to be an end-all-be-all process, which impedes their growth. Below I’ve given some counter-views to showcase how different these roles are.
 
-I’ve formed these opinions after working in the tech field for over 15 years, and having played both these roles at different points in my career. (The CEO role coming from building and running my own company).
+I’ve formed these opinions as a result of working in tech for over 15 years, and having played both these roles at different points in my career. (The CEO role coming from building and running my own company).
 
-Besides these roles having different focus areas, running a company is much harder than building a product - the number of moving pieces increases manifold, and the context switching is mind-boggling.
+In addition to these roles (product manager and CEO) having different focus areas, running a company is much harder than building a product - the number of moving pieces increases manifold, and the context switching is mind-boggling.
 
 ### Outline and Assumptions
 
 I’ve structured the article into three parts:
 
-- A product manager’s role
-- A CEO’s role
-- How these roles differ
+* A product manager’s role
+* A CEO’s role
+* How these roles differ
 
 I’m limiting my scope to technology companies - companies building software products or services. The intended audience is product managers with some experience in building products.
 
-If you are a Director/VP of Product this might not be very interesting. (You role already has a high strategy and planning component, and I suspect you already know that PdMs are not CEOs)
+If you are a Director/VP of Product this might not be very interesting. (You role already has a high strategy and planning component, and I suspect you already know that Product Managers are not CEOs)
 
 ## A Product Manager’s Role
 
@@ -47,14 +45,20 @@ I’m sure you’ve read these definitions multiple times in job postings and em
 
 Two comments on this definition:
 
-- The first bit (_finding the problem_) is important, and is the stuff that comes before {_insert agile buzzwords}._
-- Customers and users might sometimes be different. Customer is someone who pays, while user is, well, who uses the product. Whose problems are you solving? the users’ or the customers’?
+* The first bit (_finding the problem_) is important, and is the stuff that comes before planning, building roadmaps, prioritizing, basically every agile term and artifact we have_._
+
+  A sub-rant here:
+
+  **Agile ≠ Product Management**
+
+  Agile is concerned with software/product development, just a subset of product management.
+* Customers and users might sometimes be different. Customer is someone who pays, while user is, well, who uses the product. Whose problems are you solving? the users’ or the customers’?
 
 Besides, here are some other roles you’ll fill as a product manager. I’ve divided them by areas:
 
-- **Communication**: language translator, asker of questions (from business, tech, sales, and others), opinion former
-- **Data**: researcher (before building), data analyzer (after building)
-- **Planning, Project Management**: add all the buzzwords you heard that recruiter read from his script: roadmap, prioritization, agile, user story mapping.. you get the idea
+* **Communication**: language translator, asker of questions (from business, tech, sales, and others), opinion former
+* **Data**: researcher (before building), data analyzer (after building)
+* **Planning, Project Management**: Remember that last recruiter who called offering you a contract role? Add all the agile buzzwords you heard them reading from their script: roadmap, prioritization, agile, user story mapping.. you get the idea.
 
 ## A CEO’s Role
 
@@ -88,6 +92,6 @@ With all this authority, and people (customers, employees, your board) relying o
 
 A product manager has it relatively easier - if tomorrow a product failed, it won’t make the company go belly-up (unless it’s a startup, in which case the PM is probably also the CEO).
 
----
+***
 
 So, there you have it. A product manager is not a CEO of the product. Next time somebody tells you otherwise, maybe they are just trying to motivate you to take more job-functions.
