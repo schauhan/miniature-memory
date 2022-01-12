@@ -60,9 +60,7 @@ Besides, here are some other roles you’ll fill as a product manager. I’ve di
 * **Data**: researcher (before building), data analyzer (after building)
 * **Planning, Project Management**: Remember that last recruiter who called offering you a contract role? Add all the agile buzzwords you heard them reading from their script: roadmap, prioritization, agile, user story mapping.. you get the idea.
 
-  ![](/uploads/product-manager-role.jpeg "A Product Manager Role, and Skills Needed")
-
-## A CEO’s Role
+  ![](/uploads/product-manager-role.jpeg)
 
 ### 💰💰 The primary job of a CEO is to sell. 💰💰
 
