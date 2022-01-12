@@ -78,11 +78,11 @@ Here are a few other components of a CEO’s job. This is by no means a comprehe
 
 ## Job Function: CEO vs Product Manager
 
-🔥In essence, a CEO is more concerned with selling, while a product manager is focused on solving problems.
+🔥 In essence, a CEO is more concerned with selling, while a product manager is focused on solving problems.
 
 ### Power
 
-As a CEO you have the ultimate authority over people working for you - you can hire/fire people. A product manager's role, in contrast, is dependent on collaboration, relationship building, and a good deal of soft-power.
+As a CEO you have the ultimate authority over people working for you - you can hire/fire people. A product manager's role, in contrast, depends on collaboration, relationship building, and using a good deal of soft-power.
 
 You decide the direction the company would take, in terms of products, messaging, market positioning, etc.
 
