@@ -21,6 +21,8 @@ I've been in tech for over 12 years during which I've written code, worked with 
 
 In 2019 I built a no-code indicator-based algo trading platform, [Algoniti](https://www.algoniti.com/) for the Indian FinTech market. Unfortunately, I had to step away in late-2020 as COVID restricted travel.
 
+Launching a company has been one of the most rewarding experiences of my career. I learnt a TON about building products, and running a business.
+
 ## :mailbox_with_mail: contact
 
 chauhan.saransh@gmail.com
